@@ -34,7 +34,7 @@ library(RVAideMemoire)
 #control         5.67   10.32    16
 #Total            11      20     31
 
-# Para este caso, se han definido las siguientes hipótesis:
+# Para este caso, se han definido las siguientes hip�tesis:
 
 # Hipótesis Nula (H0)
 # H0: Las personas del grupo de tratamiento y placebo reportaron los mismos resultados para el 
